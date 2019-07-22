@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE movies SYSTEM "movies.dtd" >
+<movies>
+  <movie>
+    <code>101</code>
+    <title>kabir singh</title>
+    <release-date>
+    <day>13</day>
+    <month>6</month>
+    <year>2019</year>
+    
+    </release-date>
+    
+    <theater-name>jhgd</theater-name>
+    <theater-name>jhgd</theater-name>
+    <city>mhiw</city>
+    <city>mhiw</city>
+    
+  </movie>
+
+<movie>
+    <code>102</code>
+    <title>gareebo ka kabir singh</title>
+    <release-date>
+    <day>13</day>
+    <month>6</month>
+    <year>2019</year>
+    
+    </release-date>
+    
+    <theater-name>jhgd</theater-name>
+    <theater-name>jhgd</theater-name>
+    <city>mhiw</city>
+    <city>mhiw</city>
+    
+  </movie>
+
+
+</movies>
